@@ -90,7 +90,7 @@ Artist Selected Message, Latest Data Date, Last Refreshed
 
 ## 📚 Documentation
 
-Full project documentation is available in the folder:
+Full project documentation is available in this repository:
 
 - **Dashboard Documentation** — complete project walkthrough from 
 data extraction to publishing
@@ -101,7 +101,7 @@ DAX measure, and visual used
 
 ## 🚀 How to Use
 
-1. Download the `.pbix` file from the `/pbix` folder
+1. Download the `.pbix` file 
 2. Open with Power BI Desktop (free download from Microsoft)
 3. The data connects automatically to the GitHub JSON source
 4. Click **Refresh** to load the latest Billboard data

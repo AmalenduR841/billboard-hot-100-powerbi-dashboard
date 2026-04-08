@@ -1,6 +1,14 @@
 # 🎵 Billboard Hot 100 — Power BI Dashboard
 
-![Billboard Dashboard]<img width="1920" height="998" alt="github readme" src="https://github.com/user-attachments/assets/8eb264f4-14dd-4d39-bdbd-6335188fece8" />
+![Billboard Dashboard]
+<img width="1766" height="991" alt="Page 1 - Cover" src="https://github.com/user-attachments/assets/77ddfe78-c531-45d0-995f-a3967d468686" />
+<img width="1920" height="998" alt="github readme" src="https://github.com/user-attachments/assets/8eb264f4-14dd-4d39-bdbd-6335188fece8" />
+<img width="1878" height="996" alt="Page 3 - Decade By Decade" src="https://github.com/user-attachments/assets/e7889723-615d-4c31-8608-d000bbe2d1fa" />
+<img width="1881" height="993" alt="Page 4- Artist Deep Dive" src="https://github.com/user-attachments/assets/bec12a03-5d5f-43a4-92b5-8540f5f6b829" />
+<img width="1879" height="994" alt="Page 5- Top Songs" src="https://github.com/user-attachments/assets/8d42f502-ef2c-469d-a3e7-8fa68af4c645" />
+<img width="1877" height="992" alt="Page 6- Trends" src="https://github.com/user-attachments/assets/c8b792d0-51c3-4996-876d-72014c0d1e33" />
+<img width="1880" height="994" alt="Page 7 - Revivals" src="https://github.com/user-attachments/assets/6ba8b44c-8ce7-49fe-9757-954573f59d49" />
+
 
 
 ## 📊 Overview
